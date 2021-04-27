@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    public int osszeAd(int a, int b) {
-        return a + b;
+    public int osszeAd(int d, int c) {
+        return d + c;
     }
 }
